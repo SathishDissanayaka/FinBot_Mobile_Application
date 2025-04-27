@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Blue">#2445CD</color>
+    <color name="Grey">#808080</color>
+    <color name="light_gray">#E9E9E9</color>
+    <color name="PrimaryBtn">#4263EB</color>
+    <color name="SecondaryBtn">#F5F7FE</color>
+    <color name="background">#D0D8F5</color>
+    <color name="progress">#16CC72</color>
+    <color name="food">#FA8A00</color>
+    <color name="foodbg">#FFF4E9</color>
+    <color name="shopping">#6224FF</color>
+    <color name="shoppingbg">#F1E9FF</color>
+    <color name="health">#FF03DAC5</color>
+    <color name="healthbg">#E7FFFE</color>
+    <color name="utility">#FF018786</color>
+    <color name="transport">#FF484D</color>
+    <color name="transportbg">#FFE9E9</color>
+
+
+
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/list"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/nav_stat"
+        android:icon="@drawable/stat"
+        android:title="stat" />
+    <item
+        android:id="@+id/nav_add"
+        android:icon="@drawable/add"
+        android:title="add" />
+    <item
+        android:id="@+id/nav_earning"
+        android:icon="@drawable/earn"
+        android:title="Earnings" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/settings"
+        android:title="profile" />
+</menu>

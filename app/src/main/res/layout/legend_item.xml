@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+    <!-- Color Indicator -->
+    <View
+        android:id="@+id/legendColor"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_gravity="center_vertical"
+        android:background="#FFD54F" />
+    <!-- Label -->
+    <TextView
+        android:id="@+id/legendLabel"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Label"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        android:layout_marginStart="8dp" />
+    <!-- Percentage -->
+    <TextView
+        android:id="@+id/legendPercentage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0%"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/google_sans_bold" />
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinBot</string>
+    <string name="sign_in_text">Don\'t have an account? <font color="#FF0000">SIGN UP</font></string>
+    <string name="category_food_desc">Food</string>
+    <string name="category_shopping_desc">Shopping</string>
+    <string name="category_health_desc">Health</string>
+    <string name="category_transport_desc">Transport</string>
+    <string name="category_utility_desc">Utility</string>
+</resources>
